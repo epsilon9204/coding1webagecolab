@@ -1,0 +1,66 @@
+p {
+  font-family: cursive;
+  font-size: 14px;
+}
+
+h1 {
+  font-family: cursive;
+  font-size: 32px;
+  text-align: center;
+}
+
+h3 {
+  font-family: cursive;
+  font-size: 24px;
+}
+
+h6 {
+  font-family: cursive;
+  font-size: 10px;
+}
+
+img {
+  height: 150px;
+}
+
+ol {
+  font-family: cursive;
+  font-size: 14px;
+}
+
+a {
+  font-family: cursive;
+  font-size: 24px;
+  border-left: 5px;
+  text-decoration: none;
+}
+
+.emph {
+  text-decoration: underline;
+  color: red;
+}
+
+.right {
+  float: right;
+}
+
+.babysitter {
+  color: pink;
+}
+
+.retail {
+  color:firebrick;
+}
+
+.restaurant {
+  color:darkgreen;
+}
+
+#bigimg {
+  height: 300px;
+}
+
+#stock {
+  font-size: 14px;
+  float:inherit;
+}
