@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" href="style.css">
+    <!-- Why teens need jobs /should be finanically independant -->
+  </head>
+  <body>
+    <h1>Why Teens Need Jobs</h1>
+    <a href="index.html">Home |</a>
+    <a href="commonjobs.html">| Common Jobs |</a>
+    <a href="moremoney.html">| Advocating for Higher wages</a>
+    
+    <h3>Moving Out</h3>
+    <p>Don't let your child live in your basement at 30 years old. It sounds ridiculous, but with insane housing prices that are still on the rise, kids need to start saving now for their future, especially if parents don't plan on helping them out. Also, letting teens have more money earlier on allows them to learn better budgeting habits that help them out in the future.</p>
+    
+    <h3>Stocks</h3>
+    <img src="stocks_ind.png" class="right" alt="Somebody trading stocks on their phone">
+    <a href="https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/about-fidelity/Fidelity_2022-Teens-Money-Study.pdf" id="stock">Yeah, the stock market.</a> <p>More than half of teens say that investing is "too confusing" and almost half don't even know that teenagers can trade. Even if teenagers don't trade, almost three quarters of teens say that they don't know anything about the stock market. Even if they don't have any intention of trading, the American economy is so intrisically tied to the stock market that teens have to have at least basic knowledge of how it works to succeed in the real world. Giving them money early opens up the gateway for them to learn about these topics, and even have enough money to start investing.</p>
+    <h6 class="rig">CC-0 RawPixel</h6>
+    
+    <h3>Transportation</h3>
+    <img src="gas_price.png" class="right" id="bigimg" alt="Gas prices in Bristol">
+    <p>You're seeing those numbers right. In Bristol, gas was over 100 pounds per litre at its height. That's almost $120 for 1/5 of a gallon. It's not that bad in America, but it's still outrageous-- and it's not just gas prices that are bad. Car prices have skyrocketed, and what used to be a $10,000 Hyundai Elantra is now double.
+      <br>
+    So, why can't teens just take the bus, ride their bikes, or walk? They can, if they're willing to risk dying (or being late, on the brighter side) every day. The school busses are always late, and have kids sitting out in all kinds of weather for half an hour, since they don't know when their bus will arrive. Bikes are fine, until they're on any major road and can't get above 20MPH-- walking is fine too, as long as they're okay without having sidewalks.
+      <br>
+    The truth of the matter is, cars are neccessary for anybody to get around in America, and they're expensive. So, unless parents are willing to shell out $20,000 upfront for a car and $50 a week for gas, their kid needs the money to pay for that-- and current jobs aren't paying it.</p>
+    <h6 class="right">Editorial use only - Royalty Free - RawPixel</h6>
+  </body>
+</html>
